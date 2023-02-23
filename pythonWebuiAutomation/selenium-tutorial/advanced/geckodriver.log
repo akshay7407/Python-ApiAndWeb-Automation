@@ -1,0 +1,25 @@
+1675771455284	geckodriver	INFO	Listening on 127.0.0.1:58587
+1675771458361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58588" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileBcoeCx"
+1675771459607	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Akshay Gaikwad\\AppData\\Local\\Temp\\rust_mozprofileBcoeCx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58588/devtools/browser/7ef25a84-10c5-4094-832f-dd9956006828
+1675771463911	Marionette	INFO	Listening on port 58615
+Read port: 58615
+1675771463988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/pap.8fbc3b3273abc274047d.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/pap.8fbc3b3273abc274047d.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 404
+1675771918769	Marionette	INFO	Stopped listening on port 58615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1675839067833	geckodriver	INFO	Listening on 127.0.0.1:59556
+1675839070913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileZwwyM1"
+1675839071484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Akshay Gaikwad\\AppData\\Local\\Temp\\rust_mozprofileZwwyM1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59557/devtools/browser/eb0eeed6-bc3a-400d-bdb0-c0ee3c7fcd5f
+1675839075199	Marionette	INFO	Listening on port 59581
+Read port: 59581
+1675839075252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1675839217143	Marionette	INFO	Stopped listening on port 59581
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

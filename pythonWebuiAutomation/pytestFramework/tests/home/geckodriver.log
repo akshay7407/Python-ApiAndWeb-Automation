@@ -1,0 +1,29 @@
+1676010574507	geckodriver	INFO	Listening on 127.0.0.1:58912
+1676010577550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileMfvuco"
+1676010578374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Akshay Gaikwad\\AppData\\Local\\Temp\\rust_mozprofileMfvuco\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58913/devtools/browser/3c769a64-f7f5-4708-b24f-40c593d4e4d1
+1676010582587	Marionette	INFO	Listening on port 58962
+Read port: 58962
+1676010582676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1676010600007	Marionette	INFO	Stopped listening on port 58962
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1676011122699	geckodriver	INFO	Listening on 127.0.0.1:59292
+1676011125832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileRnrz1W"
+1676011126457	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Akshay Gaikwad\\AppData\\Local\\Temp\\rust_mozprofileRnrz1W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59293/devtools/browser/04079545-ca93-488d-b22d-8d36c0b9bc57
+1676011130699	Marionette	INFO	Listening on port 59332
+Read port: 59332
+1676011130812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1676023337666	Marionette	INFO	Stopped listening on port 59332
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
